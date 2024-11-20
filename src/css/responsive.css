@@ -1,0 +1,62 @@
+@media (max-width: 768px){
+
+    .main{
+        display: block;
+        max-width: 720px;
+        background-color: var(--neutro-2);
+    }
+
+    .container{
+        max-width: 320px;
+        border-radius: 0 0 30px 30px;
+    }
+
+    .container .titulo{
+        font-size: 16px;
+        margin: 25px;
+    }
+
+    .container .resultado{
+        width: 140px;
+        height: 140px;
+    }
+
+    .container .resultado .valor{
+        font-size: 60px;
+    }
+
+    .container .resultado-avaliacao .titulo-avaliacao{
+        font-size: 25px;
+        margin: 10px;
+    }
+    .container .resultado-avaliacao .texto{
+        width: 260px;
+        margin-bottom: 20px;
+        font-size: 15px;
+        padding: 10px
+    }
+
+    .info{
+        max-width: 290px;
+    }
+
+    .info .titulo-info{
+        margin: 10px;
+        font-size: 18px;
+    }
+
+    .info .resumo {
+        gap: 10px;
+        margin-left: 20px;
+    }
+
+.info .caixa-reacao, .caixa-memoria,
+.caixa-verbal, .caixa-visual{
+    font-size: 16px;
+ }
+
+ .botao{
+    margin: 15px;
+ }
+}
+ 

@@ -1,0 +1,17 @@
+:root{
+  --primario-1: hsl(0, 100%, 67%);
+  --primario-2: hsl(39, 100%, 56%);
+  --primario-3: hsl(166, 100%, 37%);
+  --primario-4:  hsl(234, 85%, 45%);
+
+  --backaground-1: hsl(252, 100%, 67%);
+  --backaground-2: hsl(241, 81%, 54%);
+
+  --circulo-1:  hsla(256, 72%, 46%, 1);
+  --circulo-2:  hsla(241, 72%, 46%, 0);
+
+  --neutro-1: hsl(0, 0%, 100%);
+  --neutro-2: hsl(221, 100%, 96%);
+  --neutro-3: hsl(241, 100%, 89%);
+  --neutro-4: hsl(224, 30%, 27%);
+}
